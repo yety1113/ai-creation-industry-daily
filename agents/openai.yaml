@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 创作行业日报"
+  short_description: "追踪 AI 创作行业信号并生成可追溯的日报与阶段归档"
+  default_prompt: "使用 $ai-creation-industry-daily 生成今天的 AI 创作行业日报，并同步维护原始记录和阶段归档。"
