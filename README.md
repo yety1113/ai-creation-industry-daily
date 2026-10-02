@@ -1,5 +1,7 @@
 # AI 创作行业日报
 
+> [打开产品介绍页 / Open the product page](https://yety1113.github.io/ai-creation-industry-daily/)
+
 一个用于持续研究 AI 创作行业的 Codex Skill。它把每日信息流整理为可核验的日报、结构化原始记录，以及包含完整证据链的周度和月度阶段归档。
 
 关注的不是泛 AI 新闻，而是 AI 如何改变内容创作、生产、分发、权利关系与商业化。
